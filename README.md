@@ -2,7 +2,7 @@
 
 英文为主、中英双语的静态食谱网站。支持部署到 Cloudflare Pages，源码放在 GitHub。网站本身不需要付费模板、数据库、服务器或 AI API。
 
-源码已上传到 **[stare911/-](https://github.com/stare911/-)** 的 `main` 分支。Cloudflare Pages 尚未连接，也尚未产生线上网址。已有仓库可以直接用于下面的部署流程，无须另建。
+网站已通过 Cloudflare Pages 发布：**[https://china-table.pages.dev](https://china-table.pages.dev)**。源码位于 **[stare911/-](https://github.com/stare911/-)** 的 `main` 分支，自动部署已启用。无需重复创建项目或上传源码。
 
 ## 已包含
 
@@ -10,7 +10,7 @@
 - 菜名、食材和拼音搜索；30 分钟以内、素食和地域筛选。
 - 浏览器本地收藏；人数调整；克/盎司、毫升/液体盎司换算；食材勾选；打印布局。
 - 食材指南、内容说明、隐私说明和图片授权署名页。
-- Recipe JSON-LD；配置正式网址后生成 canonical、hreflang 和 sitemap。
+- Recipe JSON-LD；生成正式 canonical、hreflang 和 sitemap，网址匹配 Cloudflare 的无扩展名页面路径。
 - AdSense 验证与自动广告开关，默认关闭。
 
 首批配方为 AI 辅助起草内容，尚未实际试做。站内已如实说明，不含虚构评分、作者经历或试做证言。照片为已获许可的菜品参考图，可能与配方不同；作者、授权及来源在 `src/credits.json` 和站内图片来源页。申请广告审核前需要进行内容核查，不能保证审核或收入。
@@ -28,7 +28,9 @@ npm run preview
 浏览器打开 `http://127.0.0.1:4173`。停止预览按 Ctrl+C。
 也可以直接打开 `dist/index.html` 查看静态页面。搜索和部分存储行为以 HTTP 预览为准，不同浏览器对本地文件的存储规则不同。
 
-## Cloudflare Pages + GitHub
+## Cloudflare Pages + GitHub（部署设置留档）
+
+当前项目名为 `china-table`，下列流程用于查看配置或将来重新部署。现有项目已经上线。
 
 1. 使用已上传的仓库 `stare911/-`。如果将来另建仓库，免费计划可以使用公开或私有仓库。
 2. 当前源码和必需图片已放在仓库根部。`qa/`、凭据和临时文件未上传；`dist/` 由构建生成，也无须上传。
@@ -58,7 +60,7 @@ npm run preview
 
 填写真实 `publisherId` 后，构建会生成所有页面的验证 meta 标签和根目录 `ads.txt`；即使广告开关关闭，也能进行网站验证。正式开启广告前，需要完成内容核查、隐私说明和适用的同意管理。编号、网址或同意状态缺失时，构建会拒绝启用广告。
 
-本项目不包含真实 AdSense 编号。源码已上传到你确认的 GitHub 仓库，尚未创建 Cloudflare 项目或提交 Google 审核。所有线上部署状态以实际账号后台为准。
+本项目不包含真实 AdSense 编号。网站已经通过 Cloudflare Pages 上线，尚未提交 Google 广告审核，广告仍然关闭。所有广告状态以实际 AdSense 后台为准。
 
 ## 授权
 

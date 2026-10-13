@@ -1,7 +1,7 @@
 // Public settings only. Never put passwords or API keys here.
 export default {
   name: 'China Table',
-  siteUrl: '', // After deployment: https://your-project.pages.dev (no trailing slash)
+  siteUrl: 'https://china-table.pages.dev', // Verified production origin (no trailing slash)
   contactEmail: '',
   adsense: {
     publisherId: '', // Copy the real ca-pub-... identifier from your AdSense account.
