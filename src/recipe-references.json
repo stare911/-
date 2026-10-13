@@ -1,0 +1,86 @@
+[
+  {
+    "recipeId": "tomato-egg",
+    "title": "Chinese Tomato Egg Stir-fry",
+    "author": "Sarah",
+    "platform": "The Woks of Life",
+    "url": "https://thewoksoflife.com/stir-fried-tomato-and-egg/",
+    "accessedAt": "2026-10-13",
+    "accessStatus": "public_body_read",
+    "scope": "Technique reference, not kitchen verification or author endorsement",
+    "notes": [
+      "Cook eggs separately before combining with softened tomatoes.",
+      "先炒鸡蛋，番茄炒软后再合炒。"
+    ]
+  },
+  {
+    "recipeId": "kung-pao-chicken",
+    "title": "Kung Pao Chicken",
+    "author": "Judy",
+    "platform": "The Woks of Life",
+    "url": "https://thewoksoflife.com/kung-pao-chicken/",
+    "accessedAt": "2026-10-13",
+    "accessStatus": "public_body_read",
+    "scope": "Technique reference, not kitchen verification or author endorsement",
+    "notes": [
+      "Mix sauce ahead, re-stir settled starch, add peanuts at the end.",
+      "预先调汁，入锅前重搅淀粉，最后加入花生。"
+    ]
+  },
+  {
+    "recipeId": "egg-fried-rice",
+    "title": "The Fried Rice My Dad's Made 100,000 Times",
+    "author": "Daddy Lau",
+    "platform": "Made With Lau",
+    "url": "https://www.madewithlau.com/recipes/egg-fried-rice",
+    "accessedAt": "2026-10-13",
+    "accessStatus": "public_body_read",
+    "scope": "Technique reference, not kitchen verification or author endorsement",
+    "notes": [
+      "Both fresh and properly stored leftover rice can work; avoid soggy, clumped grains.",
+      "新煮饭和妥善保存的剩饭均能炒，避免米饭过湿或结块。"
+    ]
+  },
+  {
+    "recipeId": "pork-cabbage-dumplings",
+    "title": "The ONLY Dumpling Recipe You'll Ever Need",
+    "author": "Sarah",
+    "platform": "The Woks of Life",
+    "url": "https://thewoksoflife.com/dumpling-recipe-youll-ever-need/",
+    "accessedAt": "2026-10-13",
+    "accessStatus": "public_body_read",
+    "scope": "Technique reference, not kitchen verification or author endorsement",
+    "notes": [
+      "Remove excess liquid from filling vegetables and avoid overfilling wrappers.",
+      "处理馅料蔬菜的多余水分，避免饺子皮装馅过满。"
+    ]
+  },
+  {
+    "recipeId": "scallion-noodles",
+    "title": "Shanghai Scallion Oil Noodles (Cong You Ban Mian)",
+    "author": "Judy",
+    "platform": "The Woks of Life",
+    "url": "https://thewoksoflife.com/soy-scallion-noodles-cong-ban-mian/",
+    "accessedAt": "2026-10-13",
+    "accessStatus": "public_body_read",
+    "scope": "Technique reference, not kitchen verification or author endorsement",
+    "notes": [
+      "Dry washed scallions, brown slowly, and add sauce a little at a time.",
+      "葱洗后擦干，慢煎至金黄，酱汁少量起加。"
+    ]
+  },
+  {
+    "recipeId": "mapo-tofu",
+    "title": "Vegan Mapo Tofu",
+    "author": "Sarah",
+    "platform": "The Woks of Life",
+    "url": "https://thewoksoflife.com/vegan-mapo-tofu/",
+    "accessedAt": "2026-10-13",
+    "accessStatus": "public_body_read",
+    "scope": "Technique reference, not kitchen verification or author endorsement",
+    "notes": [
+      "Chopped mushrooms are a meat-free variation; gently fold soft tofu.",
+      "菌菇碎是无肉变化版本，嫩豆腐需轻推。"
+    ]
+  }
+]

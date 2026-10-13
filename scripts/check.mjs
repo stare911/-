@@ -24,7 +24,12 @@ for(const path of htmls){
  }
  for(const m of html.matchAll(/<script[^>]+type="(?:application\/ld\+json|application\/json)"[^>]*>([\s\S]*?)<\/script>/g)) JSON.parse(m[1]);
 }
-for(const r of recipes){assert(r.prep+r.cook===r.minutes,'Time mismatch: '+r.id);assert(r.ingredients.length&&r.steps.length>=4);assert(r.ingredients.every(x=>typeof x[0]==='number'&&x[0]>0));const photo=await stat(resolve(root,'assets',r.image));assert(photo.size>10000);}
-const credits=JSON.parse(await readFile('src/credits.json','utf8'));assert.equal(credits.length,recipes.length);assert(credits.every(x=>x.author&&x.source&&x.licenseUrl));
-assert.equal(htmls.length,28);
-console.log(`PASS: ${htmls.length} bilingual pages, ${links} local links/assets, six recipe datasets, image licenses, embedded JSON, and disabled ad scripts.`);
+assert.equal(recipes.length,50,'The requested fifty dishes must exist.');
+assert.equal(new Set(recipes.map(r=>r.id)).size,50,'Recipe IDs must be unique.');
+assert.equal(new Set(recipes.map(r=>r.zh)).size,50,'Chinese dish names must be unique.');
+for(const r of recipes){assert(r.prep+r.cook===r.minutes,'Time mismatch: '+r.id);assert(r.ingredients.length>=4&&r.steps.length>=4);assert(r.ingredients.every(x=>typeof x[0]==='number'&&x[0]>0));assert(r.steps.every(s=>s.length===4&&s.every(x=>typeof x==='string'&&x.length)));const asset=await stat(resolve(root,'assets',r.image));assert(asset.size>(r.illustration?2000:10000));}
+const credits=[...JSON.parse(await readFile('src/credits.json','utf8')),...JSON.parse(await readFile('src/credits-extras.json','utf8'))];assert.equal(credits.length,recipes.length);assert(credits.every(x=>x.author&&x.source&&x.licenseUrl));
+assert.equal(htmls.length,recipes.length*2+16);
+const sitemap=await readFile(resolve(root,'sitemap.xml'),'utf8');
+assert.equal([...sitemap.matchAll(/<loc>/g)].length,recipes.length*2+12);
+console.log(`PASS: ${recipes.length} unique dishes, ${htmls.length} bilingual pages, ${links} local links/assets, full ingredients and steps, fifty image licenses, sitemap, embedded JSON, and disabled ad scripts.`);
