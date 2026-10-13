@@ -2,6 +2,8 @@
 
 英文为主、中英双语的静态食谱网站。支持部署到 Cloudflare Pages，源码放在 GitHub。网站本身不需要付费模板、数据库、服务器或 AI API。
 
+源码已上传到 **[stare911/-](https://github.com/stare911/-)** 的 `main` 分支。Cloudflare Pages 尚未连接，也尚未产生线上网址。已有仓库可以直接用于下面的部署流程，无须另建。
+
 ## 已包含
 
 - 6 道菜的中英独立页面：番茄炒蛋、宫保鸡丁、蛋炒饭、猪肉白菜饺子、葱油拌面、菌菇麻婆豆腐。
@@ -28,8 +30,8 @@ npm run preview
 
 ## Cloudflare Pages + GitHub
 
-1. 在 GitHub 新建仓库，例如 `china-table`。免费计划可以使用公开或私有仓库。
-2. 把本项目中的 `package.json`、`site.config.mjs`、`scripts/`、`src/`、`public/`、文档、LICENSE 和 `.gitignore` 上传到仓库根部。不要上传 `qa/`、凭据或临时文件。`dist/` 由构建生成，不需要上传。
+1. 使用已上传的仓库 `stare911/-`。如果将来另建仓库，免费计划可以使用公开或私有仓库。
+2. 当前源码和必需图片已放在仓库根部。`qa/`、凭据和临时文件未上传；`dist/` 由构建生成，也无须上传。
 3. 在 Cloudflare 创建 Pages 项目并连接这个 GitHub 仓库，授权时只选择所需仓库。
 4. 生产分支选择 `main`；框架预设选择 `None`；构建命令填 `npm run build`；输出目录填 `dist`；项目根目录使用仓库根目录。
 5. 如构建环境需要指定版本，添加 `NODE_VERSION` = `24`。不要启用付费 Functions、Workers 或数据库服务；本项目只使用静态文件。
@@ -56,7 +58,7 @@ npm run preview
 
 填写真实 `publisherId` 后，构建会生成所有页面的验证 meta 标签和根目录 `ads.txt`；即使广告开关关闭，也能进行网站验证。正式开启广告前，需要完成内容核查、隐私说明和适用的同意管理。编号、网址或同意状态缺失时，构建会拒绝启用广告。
 
-本项目不包含真实 AdSense 编号，也没有替你创建 GitHub 仓库、Cloudflare 项目或提交 Google 审核。所有部署状态以实际账号后台为准。
+本项目不包含真实 AdSense 编号。源码已上传到你确认的 GitHub 仓库，尚未创建 Cloudflare 项目或提交 Google 审核。所有线上部署状态以实际账号后台为准。
 
 ## 授权
 
