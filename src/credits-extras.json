@@ -81,13 +81,13 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "sweet-sour-ribs.jpg",
-    "title": "糖醋排骨.JPG",
-    "author": "施雅敏",
-    "source": "https://commons.wikimedia.org/wiki/File:%E7%B3%96%E9%86%8B%E6%8E%92%E9%AA%A8.JPG",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
+    "file": "sweet-sour-ribs-ai.jpg",
+    "title": "糖醋排骨 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/sweet-sour-ribs-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
     "file": "fish-fragrant-pork.jpg",
@@ -117,13 +117,13 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "salt-pepper-tofu.jpg",
-    "title": "Salt and Pepper Tofu 1.jpg",
-    "author": "Neodymium+Nd",
-    "source": "https://commons.wikimedia.org/wiki/File:Salt_and_Pepper_Tofu_1.jpg",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
+    "file": "salt-pepper-tofu-ai.jpg",
+    "title": "椒盐豆腐 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/salt-pepper-tofu-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
     "file": "tea-eggs.jpg",
@@ -135,13 +135,13 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "garlic-shrimp.jpg",
-    "title": "Shrimp Type Things Covered in Garlic (2891424375).jpg",
-    "author": "cogdogblog",
-    "source": "https://commons.wikimedia.org/wiki/File:Shrimp_Type_Things_Covered_in_Garlic_(2891424375).jpg",
-    "license": "CC0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
+    "file": "garlic-shrimp-ai.jpg",
+    "title": "蒜蓉虾 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/garlic-shrimp-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
     "file": "shrimp-eggs.jpg",
@@ -207,192 +207,642 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "garlic-broccoli.svg",
-    "title": "Garlic Broccoli ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/garlic-broccoli.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "garlic-broccoli-ai.jpg",
+    "title": "蒜蓉西兰花 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/garlic-broccoli-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "hot-sour-potatoes.svg",
-    "title": "Hot Sour Potatoes ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/hot-sour-potatoes.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "hot-sour-potatoes-ai.jpg",
+    "title": "酸辣土豆丝 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/hot-sour-potatoes-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "garlic-spinach.svg",
-    "title": "Garlic Spinach ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/garlic-spinach.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "garlic-spinach-ai.jpg",
+    "title": "蒜蓉菠菜 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/garlic-spinach-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "stir-fried-cabbage.svg",
-    "title": "Stir Fried Cabbage ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/stir-fried-cabbage.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "stir-fried-cabbage-ai.jpg",
+    "title": "手撕包菜 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/stir-fried-cabbage-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "mushroom-bok-choy.svg",
-    "title": "Mushroom Bok Choy ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/mushroom-bok-choy.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "mushroom-bok-choy-ai.jpg",
+    "title": "香菇青菜 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/mushroom-bok-choy-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "tomato-tofu-soup.svg",
-    "title": "Tomato Tofu Soup ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/tomato-tofu-soup.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "tomato-tofu-soup-ai.jpg",
+    "title": "番茄豆腐汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/tomato-tofu-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "seaweed-egg-soup.svg",
-    "title": "Seaweed Egg Soup ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/seaweed-egg-soup.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "seaweed-egg-soup-ai.jpg",
+    "title": "紫菜蛋花汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/seaweed-egg-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "corn-pork-rib-soup.svg",
-    "title": "Corn Pork Rib Soup ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/corn-pork-rib-soup.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "corn-pork-rib-soup-ai.jpg",
+    "title": "玉米排骨汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/corn-pork-rib-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "winter-melon-soup.svg",
-    "title": "Winter Melon Soup ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/winter-melon-soup.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "winter-melon-soup-ai.jpg",
+    "title": "冬瓜菌菇汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/winter-melon-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "pork-pepper-stir-fry.svg",
-    "title": "Pork Pepper Stir Fry ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/pork-pepper-stir-fry.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "pork-pepper-stir-fry.jpg",
+    "title": "Qīngjiāo ròusī (2540742543).jpg",
+    "author": "pelican from Tokyo, Japan",
+    "source": "https://commons.wikimedia.org/wiki/File:Q%C4%ABngji%C4%81o_r%C3%B2us%C4%AB_(2540742543).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "twice-cooked-pork.svg",
-    "title": "Twice Cooked Pork ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/twice-cooked-pork.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "twice-cooked-pork.jpg",
+    "title": "Twice-cooked Pork 回锅肉 (1648213963).jpg",
+    "author": "Alpha from Melbourne, Australia",
+    "source": "https://commons.wikimedia.org/wiki/File:Twice-cooked_Pork_%E5%9B%9E%E9%94%85%E8%82%89_(1648213963).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "lion-head-meatballs.svg",
-    "title": "Lion Head Meatballs ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/lion-head-meatballs.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "lion-head-meatballs-ai.jpg",
+    "title": "清炖狮子头 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/lion-head-meatballs-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "cumin-chicken.svg",
-    "title": "Cumin Chicken ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/cumin-chicken.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "cumin-chicken-ai.jpg",
+    "title": "孜然鸡丁 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/cumin-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "ginger-scallion-chicken.svg",
-    "title": "Ginger Scallion Chicken ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/ginger-scallion-chicken.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "ginger-scallion-chicken-ai.jpg",
+    "title": "姜葱鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/ginger-scallion-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "tomato-beef-stew.svg",
-    "title": "Tomato Beef Stew ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/tomato-beef-stew.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "tomato-beef-stew-ai.jpg",
+    "title": "番茄炖牛腩 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/tomato-beef-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "black-pepper-beef.svg",
-    "title": "Black Pepper Beef ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/black-pepper-beef.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "black-pepper-beef.jpg",
+    "title": "Black-Pepper Beef (Sapi Lada Hitam), One Two Restaurant, Yogyakarta.jpg",
+    "author": "Crisco 1492",
+    "source": "https://commons.wikimedia.org/wiki/File:Black-Pepper_Beef_(Sapi_Lada_Hitam),_One_Two_Restaurant,_Yogyakarta.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "ginger-scallion-fish.svg",
-    "title": "Ginger Scallion Fish ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/ginger-scallion-fish.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "ginger-scallion-fish-ai.jpg",
+    "title": "姜葱蒸鱼 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/ginger-scallion-fish-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
   },
   {
-    "file": "sesame-noodles.svg",
-    "title": "Sesame Noodles ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/sesame-noodles.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "sesame-noodles.jpg",
+    "title": "Sesamenoodle.jpg",
+    "author": "Katawump",
+    "source": "https://commons.wikimedia.org/wiki/File:Sesamenoodle.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "steamed-eggs.svg",
-    "title": "Steamed Eggs ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/steamed-eggs.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "steamed-eggs.jpg",
+    "title": "蒸水蛋 - 基隆茶餐廳.jpg",
+    "author": "Andy Li",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%92%B8%E6%B0%B4%E8%9B%8B_-_%E5%9F%BA%E9%9A%86%E8%8C%B6%E9%A4%90%E5%BB%B3.jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "tomato-egg-noodles.svg",
-    "title": "Tomato Egg Noodles ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/tomato-egg-noodles.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "tomato-egg-noodles.jpg",
+    "title": "Tomato and egg noodles.jpg",
+    "author": "Zhuo1221",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_and_egg_noodles.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "vegetable-congee.svg",
-    "title": "Vegetable Congee ingredient illustration",
-    "author": "China Table",
-    "source": "/assets/vegetable-congee.svg",
-    "license": "CC0 1.0",
-    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "changes": "Original code-drawn ingredient illustration. Not a photograph or a recipe test result."
+    "file": "vegetable-congee-ai.jpg",
+    "title": "香菇蔬菜粥 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/vegetable-congee-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the listed ingredients and cooking method. Not a real photograph or a kitchen-tested recipe result. Displayed with CSS crop."
+  },
+  {
+    "file": "orange-chicken-ai.jpg",
+    "title": "陈皮橙汁鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/orange-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "sesame-chicken-ai.jpg",
+    "title": "芝麻鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/sesame-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "sweet-sour-chicken-ai.jpg",
+    "title": "糖醋鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/sweet-sour-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "crispy-honey-chicken-ai.jpg",
+    "title": "蜜汁脆皮鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/crispy-honey-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "mongolian-beef-ai.jpg",
+    "title": "葱爆甜酱牛肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/mongolian-beef-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "beijing-beef-ai.jpg",
+    "title": "甜辣酥牛肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/beijing-beef-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "chicken-lettuce-wraps-ai.jpg",
+    "title": "鸡肉生菜包 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/chicken-lettuce-wraps-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "chicken-chow-mein-ai.jpg",
+    "title": "鸡肉炒面 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/chicken-chow-mein-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "honey-walnut-shrimp-ai.jpg",
+    "title": "蜜汁核桃虾 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/honey-walnut-shrimp-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "vegetable-spring-rolls-ai.jpg",
+    "title": "蔬菜春卷 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/vegetable-spring-rolls-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "lemon-chicken-ai.jpg",
+    "title": "柠檬鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/lemon-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "cashew-chicken-ai.jpg",
+    "title": "腰果鸡丁 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/cashew-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "black-pepper-chicken-ai.jpg",
+    "title": "黑椒鸡丁 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/black-pepper-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "chicken-mushroom-stir-fry-ai.jpg",
+    "title": "香菇炒鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/chicken-mushroom-stir-fry-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "potato-chicken-stew-ai.jpg",
+    "title": "土豆炖鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/potato-chicken-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "red-braised-ribs-ai.jpg",
+    "title": "红烧排骨 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/red-braised-ribs-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "chestnut-chicken-stew-ai.jpg",
+    "title": "板栗烧鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/chestnut-chicken-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "steamed-pork-patty-ai.jpg",
+    "title": "蒸肉饼 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/steamed-pork-patty-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "soy-sauce-chicken-ai.jpg",
+    "title": "酱油鸡 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/soy-sauce-chicken-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "wood-ear-pork-ai.jpg",
+    "title": "木耳炒肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/wood-ear-pork-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "pork-eggplant-stew-ai.jpg",
+    "title": "肉末茄子 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/pork-eggplant-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "beef-celery-stir-fry-ai.jpg",
+    "title": "芹菜牛肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/beef-celery-stir-fry-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "beef-onion-stir-fry-ai.jpg",
+    "title": "洋葱炒牛肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/beef-onion-stir-fry-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "cumin-lamb-ai.jpg",
+    "title": "孜然羊肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/cumin-lamb-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "beef-potato-stew-ai.jpg",
+    "title": "土豆炖牛肉 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/beef-potato-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "black-bean-fish-ai.jpg",
+    "title": "豆豉蒸鱼 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/black-bean-fish-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "ginger-scallion-shrimp-ai.jpg",
+    "title": "姜葱炒虾 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/ginger-scallion-shrimp-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "shrimp-broccoli-ai.jpg",
+    "title": "西兰花炒虾仁 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/shrimp-broccoli-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "tomato-fish-soup-ai.jpg",
+    "title": "番茄鱼片汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/tomato-fish-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "shrimp-vermicelli-ai.jpg",
+    "title": "蒜蓉粉丝蒸虾 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/shrimp-vermicelli-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "clam-ginger-soup-ai.jpg",
+    "title": "姜丝蛤蜊汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/clam-ginger-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "cucumber-eggs-ai.jpg",
+    "title": "黄瓜炒蛋 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/cucumber-eggs-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "chive-eggs-ai.jpg",
+    "title": "韭菜炒蛋 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/chive-eggs-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "wood-ear-salad-ai.jpg",
+    "title": "凉拌木耳 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/wood-ear-salad-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "bitter-melon-eggs-ai.jpg",
+    "title": "苦瓜炒蛋 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/bitter-melon-eggs-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "shredded-carrot-salad-ai.jpg",
+    "title": "凉拌胡萝卜丝 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/shredded-carrot-salad-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "stir-fried-celery-ai.jpg",
+    "title": "香干炒芹菜 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/stir-fried-celery-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "lotus-root-stir-fry-ai.jpg",
+    "title": "清炒莲藕 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/lotus-root-stir-fry-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "cauliflower-tomato-ai.jpg",
+    "title": "番茄炒菜花 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/cauliflower-tomato-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "stir-fried-zucchini-ai.jpg",
+    "title": "清炒西葫芦 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/stir-fried-zucchini-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "pea-shoots-ai.jpg",
+    "title": "蒜蓉豌豆苗 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/pea-shoots-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "garlic-enoki-ai.jpg",
+    "title": "蒜蓉蒸金针菇 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/garlic-enoki-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "tofu-mushroom-stew-ai.jpg",
+    "title": "菌菇豆腐煲 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/tofu-mushroom-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "braised-daikon-ai.jpg",
+    "title": "红烧白萝卜 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/braised-daikon-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "shrimp-fried-rice-ai.jpg",
+    "title": "虾仁炒饭 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/shrimp-fried-rice-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "tofu-cabbage-stew-ai.jpg",
+    "title": "白菜炖豆腐 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/tofu-cabbage-stew-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "vegetable-chow-mein-ai.jpg",
+    "title": "蔬菜炒面 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/vegetable-chow-mein-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "wonton-soup-ai.jpg",
+    "title": "鲜肉馄饨汤 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/wonton-soup-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "pork-potstickers-ai.jpg",
+    "title": "猪肉锅贴 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/pork-potstickers-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
+  },
+  {
+    "file": "pumpkin-congee-ai.jpg",
+    "title": "南瓜粥 — AI-generated finished-dish reference",
+    "author": "China Table · AI-generated",
+    "source": "/assets/pumpkin-congee-ai.jpg",
+    "license": "Original AI illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "AI-generated finished-dish reference matched to the main ingredients and cooking method; not a real photograph or a kitchen-tested result. Displayed with CSS crop."
   }
 ]

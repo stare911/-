@@ -24,7 +24,7 @@
     const matches=[];
     section.querySelectorAll('.recipe-card').forEach(card=>{
       const matchesText=normalize(card.dataset.search).includes(query);
-      const matchesFilter=activeFilter==='all'||(activeFilter==='quick'?Number(card.dataset.minutes)<=30:activeFilter==='vegetarian'?card.dataset.vegetarian==='true':activeFilter.startsWith('type-')?card.dataset.type===activeFilter.slice(5):card.dataset.category===activeFilter);
+      const matchesFilter=activeFilter==='all'||(activeFilter==='quick'?Number(card.dataset.minutes)<=30:activeFilter==='international'?card.dataset.international==='true':activeFilter==='vegetarian'?card.dataset.vegetarian==='true':activeFilter.startsWith('type-')?card.dataset.type===activeFilter.slice(5):card.dataset.category===activeFilter);
       const matchesSaved=section.dataset.collection!=='saved'||saved.has(card.dataset.id);
       card.hidden=true;
       if(matchesText&&matchesFilter&&matchesSaved) matches.push(card);
@@ -33,6 +33,11 @@
     pageNumber=Math.min(pageNumber,pages);
     matches.slice((pageNumber-1)*pageSize,pageNumber*pageSize).forEach(card=>card.hidden=false);
     document.getElementById('result-number').textContent=String(count);
+    const clear=section.querySelector('[data-clear-filters]');
+    if(clear)clear.hidden=activeFilter==='all'&&!query;
+    const selection=section.querySelector('.filter-selection');
+    const selectedExtra=section.querySelector('.extra-filter-options .filter.selected');
+    if(selection){selection.hidden=!selectedExtra;selection.textContent=selectedExtra?.textContent||'';}
     section.querySelector('.recipe-grid').hidden=count===0;
     const pagination=section.querySelector('.pagination');
     pagination.hidden=count<=pageSize;
@@ -58,12 +63,17 @@
     applyFilters(true);
   }));
   document.getElementById('recipe-search')?.addEventListener('input',()=>applyFilters(true));
+  document.querySelectorAll('[data-browse-filter]').forEach(link=>link.addEventListener('click',()=>{
+    if(!section)return;
+    document.getElementById('recipe-search').value='';
+    section.querySelector(`[data-filter="${link.dataset.browseFilter}"]`)?.click();
+  }));
   section?.querySelectorAll('[data-page]').forEach(button=>button.addEventListener('click',()=>{
     pageNumber+=button.dataset.page==='next'?1:-1;
     applyFilters();
     section.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});
   }));
-  document.querySelector('[data-reset]')?.addEventListener('click',()=>{document.getElementById('recipe-search').value='';section.querySelector('[data-filter="all"]').click();document.getElementById('recipe-search').focus();});
+  document.querySelectorAll('[data-reset],[data-clear-filters]').forEach(button=>button.addEventListener('click',()=>{document.getElementById('recipe-search').value='';section.querySelector('[data-filter="all"]').click();document.getElementById('recipe-search').focus();}));
   window.addEventListener('storage',event=>{if(event.key===saveKey){try{const list=JSON.parse(event.newValue||'[]');saved=new Set(Array.isArray(list)?list.filter(x=>typeof x==='string'):[]);}catch{saved=new Set();}syncSaved();applyFilters();}});
   syncSaved();applyFilters();
   const menu=document.querySelector('.menu-button'),nav=document.getElementById('main-nav');

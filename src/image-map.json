@@ -45,9 +45,10 @@
     "creditSource": "Wikimedia Commons"
   },
   "sweet-sour-ribs": {
-    "file": "sweet-sour-ribs.jpg",
-    "illustration": false,
-    "creditSource": "Wikimedia Commons"
+    "file": "sweet-sour-ribs-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "fish-fragrant-pork": {
     "file": "fish-fragrant-pork.jpg",
@@ -65,9 +66,10 @@
     "creditSource": "Wikimedia Commons"
   },
   "salt-pepper-tofu": {
-    "file": "salt-pepper-tofu.jpg",
-    "illustration": false,
-    "creditSource": "Wikimedia Commons"
+    "file": "salt-pepper-tofu-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "tea-eggs": {
     "file": "tea-eggs.jpg",
@@ -75,9 +77,10 @@
     "creditSource": "Wikimedia Commons"
   },
   "garlic-shrimp": {
-    "file": "garlic-shrimp.jpg",
-    "illustration": false,
-    "creditSource": "Wikimedia Commons"
+    "file": "garlic-shrimp-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "shrimp-eggs": {
     "file": "shrimp-eggs.jpg",
@@ -115,108 +118,433 @@
     "creditSource": "Wikimedia Commons"
   },
   "garlic-broccoli": {
-    "file": "garlic-broccoli.svg",
+    "file": "garlic-broccoli-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "hot-sour-potatoes": {
-    "file": "hot-sour-potatoes.svg",
+    "file": "hot-sour-potatoes-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "garlic-spinach": {
-    "file": "garlic-spinach.svg",
+    "file": "garlic-spinach-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "stir-fried-cabbage": {
-    "file": "stir-fried-cabbage.svg",
+    "file": "stir-fried-cabbage-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "mushroom-bok-choy": {
-    "file": "mushroom-bok-choy.svg",
+    "file": "mushroom-bok-choy-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "tomato-tofu-soup": {
-    "file": "tomato-tofu-soup.svg",
+    "file": "tomato-tofu-soup-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "seaweed-egg-soup": {
-    "file": "seaweed-egg-soup.svg",
+    "file": "seaweed-egg-soup-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "corn-pork-rib-soup": {
-    "file": "corn-pork-rib-soup.svg",
+    "file": "corn-pork-rib-soup-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "winter-melon-soup": {
-    "file": "winter-melon-soup.svg",
+    "file": "winter-melon-soup-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "pork-pepper-stir-fry": {
-    "file": "pork-pepper-stir-fry.svg",
-    "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "file": "pork-pepper-stir-fry.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
   },
   "twice-cooked-pork": {
-    "file": "twice-cooked-pork.svg",
-    "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "file": "twice-cooked-pork.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
   },
   "lion-head-meatballs": {
-    "file": "lion-head-meatballs.svg",
+    "file": "lion-head-meatballs-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "cumin-chicken": {
-    "file": "cumin-chicken.svg",
+    "file": "cumin-chicken-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "ginger-scallion-chicken": {
-    "file": "ginger-scallion-chicken.svg",
+    "file": "ginger-scallion-chicken-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "tomato-beef-stew": {
-    "file": "tomato-beef-stew.svg",
+    "file": "tomato-beef-stew-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "black-pepper-beef": {
-    "file": "black-pepper-beef.svg",
-    "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "file": "black-pepper-beef.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
   },
   "ginger-scallion-fish": {
-    "file": "ginger-scallion-fish.svg",
+    "file": "ginger-scallion-fish-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   },
   "sesame-noodles": {
-    "file": "sesame-noodles.svg",
-    "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "file": "sesame-noodles.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
   },
   "steamed-eggs": {
-    "file": "steamed-eggs.svg",
-    "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "file": "steamed-eggs.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
   },
   "tomato-egg-noodles": {
-    "file": "tomato-egg-noodles.svg",
-    "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "file": "tomato-egg-noodles.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
   },
   "vegetable-congee": {
-    "file": "vegetable-congee.svg",
+    "file": "vegetable-congee-ai.jpg",
     "illustration": true,
-    "creditSource": "Original ingredient illustration"
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "pork-cabbage-dumplings": {
+    "file": "boiled-dumplings.jpg",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
+  },
+  "mapo-tofu": {
+    "file": "mapo-mushroom.png",
+    "illustration": false,
+    "creditSource": "Wikimedia Commons"
+  },
+  "orange-chicken": {
+    "file": "orange-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "sesame-chicken": {
+    "file": "sesame-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "sweet-sour-chicken": {
+    "file": "sweet-sour-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "crispy-honey-chicken": {
+    "file": "crispy-honey-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "mongolian-beef": {
+    "file": "mongolian-beef-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "beijing-beef": {
+    "file": "beijing-beef-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "chicken-lettuce-wraps": {
+    "file": "chicken-lettuce-wraps-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "chicken-chow-mein": {
+    "file": "chicken-chow-mein-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "honey-walnut-shrimp": {
+    "file": "honey-walnut-shrimp-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "vegetable-spring-rolls": {
+    "file": "vegetable-spring-rolls-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "lemon-chicken": {
+    "file": "lemon-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "cashew-chicken": {
+    "file": "cashew-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "black-pepper-chicken": {
+    "file": "black-pepper-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "chicken-mushroom-stir-fry": {
+    "file": "chicken-mushroom-stir-fry-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "potato-chicken-stew": {
+    "file": "potato-chicken-stew-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "red-braised-ribs": {
+    "file": "red-braised-ribs-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "chestnut-chicken-stew": {
+    "file": "chestnut-chicken-stew-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "steamed-pork-patty": {
+    "file": "steamed-pork-patty-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "soy-sauce-chicken": {
+    "file": "soy-sauce-chicken-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "wood-ear-pork": {
+    "file": "wood-ear-pork-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "pork-eggplant-stew": {
+    "file": "pork-eggplant-stew-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "beef-celery-stir-fry": {
+    "file": "beef-celery-stir-fry-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "beef-onion-stir-fry": {
+    "file": "beef-onion-stir-fry-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "cumin-lamb": {
+    "file": "cumin-lamb-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "beef-potato-stew": {
+    "file": "beef-potato-stew-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "black-bean-fish": {
+    "file": "black-bean-fish-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "ginger-scallion-shrimp": {
+    "file": "ginger-scallion-shrimp-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "shrimp-broccoli": {
+    "file": "shrimp-broccoli-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "tomato-fish-soup": {
+    "file": "tomato-fish-soup-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "shrimp-vermicelli": {
+    "file": "shrimp-vermicelli-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "clam-ginger-soup": {
+    "file": "clam-ginger-soup-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "cucumber-eggs": {
+    "file": "cucumber-eggs-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "chive-eggs": {
+    "file": "chive-eggs-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "wood-ear-salad": {
+    "file": "wood-ear-salad-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "bitter-melon-eggs": {
+    "file": "bitter-melon-eggs-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "shredded-carrot-salad": {
+    "file": "shredded-carrot-salad-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "stir-fried-celery": {
+    "file": "stir-fried-celery-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "lotus-root-stir-fry": {
+    "file": "lotus-root-stir-fry-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "cauliflower-tomato": {
+    "file": "cauliflower-tomato-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "stir-fried-zucchini": {
+    "file": "stir-fried-zucchini-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "pea-shoots": {
+    "file": "pea-shoots-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "garlic-enoki": {
+    "file": "garlic-enoki-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "tofu-mushroom-stew": {
+    "file": "tofu-mushroom-stew-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "braised-daikon": {
+    "file": "braised-daikon-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "shrimp-fried-rice": {
+    "file": "shrimp-fried-rice-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "tofu-cabbage-stew": {
+    "file": "tofu-cabbage-stew-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "vegetable-chow-mein": {
+    "file": "vegetable-chow-mein-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "wonton-soup": {
+    "file": "wonton-soup-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "pork-potstickers": {
+    "file": "pork-potstickers-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
+  },
+  "pumpkin-congee": {
+    "file": "pumpkin-congee-ai.jpg",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   }
 }

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" fill="none">
+ <defs>
+  <linearGradient id="paper" x1="90" y1="0" x2="850" y2="720" gradientUnits="userSpaceOnUse"><stop stop-color="#f7f0dd"/><stop offset="1" stop-color="#e7dcc4"/></linearGradient>
+  <linearGradient id="soy" x1="295" y1="150" x2="445" y2="585" gradientUnits="userSpaceOnUse"><stop stop-color="#82532d"/><stop offset=".6" stop-color="#67402a"/><stop offset="1" stop-color="#402d21"/></linearGradient>
+  <linearGradient id="vinegar" x1="530" y1="275" x2="690" y2="590" gradientUnits="userSpaceOnUse"><stop stop-color="#423a2f"/><stop offset="1" stop-color="#282d27"/></linearGradient>
+  <linearGradient id="ginger" x1="690" y1="545" x2="820" y2="635" gradientUnits="userSpaceOnUse"><stop stop-color="#daba7b"/><stop offset="1" stop-color="#b9894b"/></linearGradient>
+  <filter id="shadow" x="-40%" y="-30%" width="180%" height="180%"><feGaussianBlur stdDeviation="12"/></filter>
+ </defs>
+ <rect width="960" height="720" rx="30" fill="url(#paper)"/>
+ <path d="M42 63H917M42 650H917" stroke="#c4b592" stroke-opacity=".35"/>
+ <circle cx="481" cy="357" r="262" stroke="#c8b899" stroke-opacity=".35"/>
+ <circle cx="481" cy="357" r="232" stroke="#c8b899" stroke-opacity=".2"/>
+ <ellipse cx="496" cy="606" rx="295" ry="29" fill="#665139" opacity=".14" filter="url(#shadow)"/>
+ <g transform="rotate(-7 367 376)">
+  <path d="M310 222V181H409V222C410 240 434 249 434 277V560C434 578 424 588 405 588H310C291 588 282 578 282 560V277C282 249 309 240 310 222Z" fill="url(#soy)" stroke="#5a4029" stroke-width="3"/>
+  <rect x="305" y="131" width="111" height="57" rx="9" fill="#d4bc82"/>
+  <path d="M313 143H407M313 153H407M313 163H407M313 173H407" stroke="#b39b64" stroke-width="3"/>
+  <path d="M303 278V527" stroke="#c5a077" stroke-width="10" stroke-linecap="round" opacity=".28"/>
+  <rect x="296" y="325" width="124" height="185" rx="4" fill="#f7f1e3"/>
+  <path d="M311 342H405M311 491H405" stroke="#c2b187"/>
+  <text x="358" y="412" text-anchor="middle" fill="#244b40" font-family="Georgia, 'Noto Serif SC', SimSun, serif" font-size="56">生抽</text>
+  <text x="358" y="446" text-anchor="middle" fill="#725d44" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.2">LIGHT SOY</text>
+  <text x="358" y="469" text-anchor="middle" fill="#725d44" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.2">SAUCE</text>
+ </g>
+ <g transform="rotate(6 602 424)">
+  <path d="M559 289V239H644V289C673 297 686 309 686 335V560C686 578 676 588 657 588H545C526 588 517 578 517 560V335C517 309 533 297 559 289Z" fill="url(#vinegar)" stroke="#3b3a2e" stroke-width="3"/>
+  <rect x="553" y="202" width="98" height="47" rx="8" fill="#b95537"/>
+  <path d="M563 214H641M563 224H641M563 234H641" stroke="#d18460" stroke-width="2"/>
+  <path d="M537 328V538" stroke="#aaa085" stroke-width="9" stroke-linecap="round" opacity=".18"/>
+  <rect x="531" y="357" width="140" height="169" rx="4" fill="#f7f1e3"/>
+  <path d="M547 373H655M547 509H655" stroke="#cbb697"/>
+  <text x="601" y="433" text-anchor="middle" fill="#a34f35" font-family="Georgia, 'Noto Serif SC', SimSun, serif" font-size="54">香醋</text>
+  <text x="601" y="467" text-anchor="middle" fill="#725d44" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">CHINESE BLACK</text>
+  <text x="601" y="489" text-anchor="middle" fill="#725d44" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">VINEGAR</text>
+ </g>
+ <g stroke-linecap="round">
+  <path d="M181 563C152 423 118 337 83 241" stroke="#577951" stroke-width="17"/>
+  <path d="M193 560C202 401 169 322 133 205" stroke="#325f42" stroke-width="16"/>
+  <path d="M204 564C247 401 214 305 202 224" stroke="#7a925d" stroke-width="14"/>
+  <path d="M217 567C253 431 282 368 264 271" stroke="#4c704c" stroke-width="14"/>
+  <path d="M174 542L184 593M190 539L197 598M209 543L210 598M224 542L219 590" stroke="#eee7ce" stroke-width="20"/>
+  <path d="M184 599L175 616M184 602L187 621M197 605L198 624M209 605L220 620M218 601L227 611" stroke="#b19e78" stroke-width="2"/>
+ </g>
+ <path d="M699 576C679 558 688 535 706 532C719 530 729 539 736 549C750 539 751 515 770 514C792 513 794 538 789 552C812 553 833 564 831 584C829 599 810 605 796 599C787 621 774 634 755 625C744 620 744 607 747 597C728 605 711 591 699 576Z" fill="url(#ginger)" stroke="#b38b52" stroke-width="3"/>
+ <path d="M707 545L714 562M759 533L773 540M757 578L783 567M776 607L786 594M807 568L810 584" stroke="#997442" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+ <path d="M727 562C733 577 738 581 751 582" stroke="#edd4a0" stroke-width="5" stroke-linecap="round"/>
+ <ellipse cx="492" cy="638" rx="34" ry="7" fill="#9f8863" opacity=".16"/>
+ <text x="481" y="88" text-anchor="middle" fill="#716d58" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">A FEW GOOD INGREDIENTS</text>
+ <path d="M337 667H621" stroke="#bdaa83"/>
+</svg>

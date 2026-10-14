@@ -27,13 +27,13 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "dumplings.jpg",
-    "title": "Asian Dumplings (Jiaozi) by ArmAg.jpg",
-    "author": "Armineaghayan",
-    "source": "https://commons.wikimedia.org/wiki/File:Asian_Dumplings_(Jiaozi)_by_ArmAg.jpg",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
+    "file": "boiled-dumplings.jpg",
+    "title": "BoiledDumplings.jpg",
+    "author": "Bioniclepluslotr",
+    "source": "https://commons.wikimedia.org/wiki/File:BoiledDumplings.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates boiled dumplings, not a test of this recipe."
   },
   {
     "file": "noodles.jpg",
@@ -45,12 +45,12 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "tofu.jpg",
-    "title": "Authentic Mapo Tofu.jpg",
-    "author": "Sichuanfoodlover",
-    "source": "https://commons.wikimedia.org/wiki/File:Authentic_Mapo_Tofu.jpg",
+    "file": "mapo-mushroom.png",
+    "title": "Mapo tofu (vegetarian version).png",
+    "author": "NeoBatfreak",
+    "source": "https://commons.wikimedia.org/wiki/File:Mapo_tofu_(vegetarian_version).png",
     "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Displayed with a CSS crop. Vegetarian mapo tofu with shiitake mushrooms; not a test of this recipe."
   }
 ]

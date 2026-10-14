@@ -3,6 +3,8 @@
 // Each ingredient: [quantity, metric unit, English name, Chinese name].
 import {readFileSync} from 'node:fs';
 import {extraRecipes} from './recipes-extra.mjs';
+import {newRecipesA} from './recipes-new-a.mjs';
+import {newRecipesB} from './recipes-new-b.mjs';
 const imageMap=JSON.parse(readFileSync(new URL('./image-map.json',import.meta.url),'utf8'));
 export const recipes = [
   {
@@ -103,8 +105,8 @@ export const recipes = [
     swaps:[['Doubanjiang','For a different, milder sauce, use 2 tsp miso plus a little chilli paste. It will not reproduce doubanjiang’s fermented broad-bean flavour.','豆瓣酱','想做较温和的不同风味，可用2茶匙味噌加少量辣椒酱，但不能还原蚕豆发酵香味。']],
     safety:['Check sauce labels for allergens and animal ingredients.','检查酱料标签中的过敏原及动物成分。']
   }
-].concat(extraRecipes).map(r=>({
+].concat(extraRecipes,newRecipesA,newRecipesB).map(r=>({
   ...r,
   type:r.type||({'tomato-egg':'vegetables','kung-pao-chicken':'meat','egg-fried-rice':'noodles','pork-cabbage-dumplings':'noodles','scallion-noodles':'noodles','mapo-tofu':'vegetables'}[r.id]),
-  ...(imageMap[r.id]?{image:imageMap[r.id].file,illustration:imageMap[r.id].illustration}:{illustration:false})
+  ...(imageMap[r.id]?{image:imageMap[r.id].file,illustration:imageMap[r.id].illustration,aiGenerated:!!imageMap[r.id].aiGenerated}:{illustration:false})
 }));

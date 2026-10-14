@@ -16,9 +16,9 @@ function allergens(ingredients){
  for(const [pattern,e,z] of rules)if(pattern.test(names)){en.push(e);zh.push(z);}
  return [en.length?en.join(', '):'Check ingredient labels and cross-contact information.',zh.length?zh.join('、'):'检查食材标签和交叉接触信息。'];
 }
-function recipe(x){
+export function recipe(x){
  const regions={sichuan:['Sichuan-inspired','川味'],northern:['Northern-style','北方风味'],shanghai:['Shanghai-style','上海风味'],cantonese:['Cantonese-inspired','粤式风味']};
- return {...x,pinyin:x.pin,minutes:x.prep+x.cook,servings:x.servings||2,vegetarian:!!x.vegetarian,spice:x.spice||0,region:regions[x.category]||['Home-style','家常菜'],category:x.category||'everyday',difficulty:x.difficulty||[x.cook>35?'Medium':'Easy',x.cook>35?'中等':'简单'],image:x.id+'.svg',allergens:allergens(x.ingredients),safety:x.safety||safety[x.protein]||safety.veg,
+ return {...x,pinyin:x.pin,minutes:x.prep+x.cook,servings:x.servings||2,vegetarian:!!x.vegetarian,spice:x.spice||0,region:x.region||regions[x.category]||['Home-style','家常菜'],category:x.category||'everyday',difficulty:x.difficulty||[x.cook>35?'Medium':'Easy',x.cook>35?'中等':'简单'],image:x.id+'.svg',allergens:x.allergens||allergens(x.ingredients),safety:x.safety||safety[x.protein]||safety.veg,
   steps:x.steps.map(([e,z])=>{const [et,...eb]=e.split('|'),[zt,...zb]=z.split('|');return [et,eb.join('|'),zt,zb.join('|')];})};
 }
 export const extraRecipes=[

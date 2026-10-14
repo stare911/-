@@ -1,0 +1,1760 @@
+{
+  "date": "2026-10-14",
+  "count": 100,
+  "licensedPhotos": 32,
+  "aiReferences": 68,
+  "published": false,
+  "recipes": [
+    {
+      "id": "tomato-egg",
+      "name": "番茄炒蛋",
+      "image": "tomato-egg.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "大鸡蛋",
+        "熟番茄，切块",
+        "中性食用油",
+        "盐，分次使用，按口味调整",
+        "白糖（可选）",
+        "水",
+        "小葱，切段"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Hunan_cuisine,_stir-fried_tomato_with_eggs.jpg"
+    },
+    {
+      "id": "kung-pao-chicken",
+      "name": "宫保鸡丁",
+      "image": "kung-pao.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "去骨鸡腿肉，切2厘米丁",
+        "熟无盐花生",
+        "小葱，切段",
+        "蒜瓣，切片",
+        "生姜，切末",
+        "干辣椒（可选），剪半",
+        "生抽，分次使用",
+        "镇江香醋",
+        "白糖",
+        "玉米淀粉，分次使用",
+        "水",
+        "中性食用油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:2016-08-14_Kung_Pao_Chicken_dish_in_Beijing_anagoria.jpg"
+    },
+    {
+      "id": "egg-fried-rice",
+      "name": "家常蛋炒饭",
+      "image": "fried-rice.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "熟米饭，妥善冷藏或新煮后散掉水汽",
+        "大鸡蛋",
+        "冷冻豌豆，解冻",
+        "小葱，切碎",
+        "生抽",
+        "中性食用油",
+        "白胡椒粉（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Egg_fried_rice.jpg"
+    },
+    {
+      "id": "pork-cabbage-dumplings",
+      "name": "猪肉白菜饺子",
+      "image": "boiled-dumplings.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "圆饺子皮",
+        "猪肉末",
+        "大白菜，切碎",
+        "盐",
+        "小葱，切末",
+        "生姜，切末",
+        "生抽",
+        "芝麻油（可选）",
+        "馅料用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:BoiledDumplings.jpg"
+    },
+    {
+      "id": "scallion-noodles",
+      "name": "葱油拌面",
+      "image": "noodles.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "干小麦面条（纯素版选无蛋面）",
+        "小葱，切5厘米段",
+        "中性食用油",
+        "生抽",
+        "老抽（可选）",
+        "白糖",
+        "留用的煮面水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Shanghai_oil_noodle.jpg"
+    },
+    {
+      "id": "mapo-tofu",
+      "name": "菌菇麻婆豆腐",
+      "image": "mapo-mushroom.png",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "嫩豆腐，切2厘米块",
+        "鲜菌菇，切碎",
+        "豆瓣酱（检查标签，选择无动物成分版本）",
+        "蒜瓣，切末",
+        "生姜，切末",
+        "蔬菜高汤或水",
+        "生抽（可选）",
+        "玉米淀粉",
+        "调淀粉浆用的冷水",
+        "中性食用油",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Mapo_tofu_(vegetarian_version).png"
+    },
+    {
+      "id": "smashed-cucumber",
+      "name": "拍黄瓜",
+      "image": "smashed-cucumber.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "黄瓜",
+        "盐",
+        "蒜瓣，切末",
+        "生抽",
+        "米醋",
+        "芝麻油",
+        "白糖"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Smashed_cucumbers_(20220219174336).jpg"
+    },
+    {
+      "id": "garlic-broccoli",
+      "name": "蒜蓉西兰花",
+      "image": "garlic-broccoli-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "西兰花",
+        "蒜瓣，切末",
+        "中性油",
+        "盐",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/garlic-broccoli-ai.jpg"
+    },
+    {
+      "id": "stir-fried-bok-choy",
+      "name": "清炒小白菜",
+      "image": "stir-fried-bok-choy.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "小白菜",
+        "蒜瓣，切片",
+        "中性油",
+        "盐",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Stir_Fried_Bok_Choy,_Aug_2025.jpg"
+    },
+    {
+      "id": "hot-sour-potatoes",
+      "name": "酸辣土豆丝",
+      "image": "hot-sour-potatoes-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "土豆，去皮",
+        "蒜瓣，切片",
+        "小红辣椒（可选）",
+        "中性油",
+        "米醋",
+        "盐",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/hot-sour-potatoes-ai.jpg"
+    },
+    {
+      "id": "garlic-spinach",
+      "name": "蒜蓉菠菜",
+      "image": "garlic-spinach-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "鲜菠菜",
+        "蒜瓣，切末",
+        "中性油",
+        "盐"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/garlic-spinach-ai.jpg"
+    },
+    {
+      "id": "stir-fried-cabbage",
+      "name": "手撕包菜",
+      "image": "stir-fried-cabbage-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "圆包菜",
+        "蒜瓣，切片",
+        "干辣椒（可选）",
+        "中性油",
+        "生抽",
+        "米醋"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/stir-fried-cabbage-ai.jpg"
+    },
+    {
+      "id": "garlic-green-beans",
+      "name": "蒜香四季豆",
+      "image": "garlic-green-beans.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "鲜四季豆，去筋",
+        "蒜瓣，切末",
+        "中性油",
+        "生抽",
+        "白胡椒（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Sauteed_Garlic_Green_Beans_1_2017-02-22.jpg"
+    },
+    {
+      "id": "braised-eggplant",
+      "name": "红烧茄子",
+      "image": "braised-eggplant.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "茄子，切3厘米块",
+        "蒜瓣，切末",
+        "中性油",
+        "生抽",
+        "老抽（可选）",
+        "糖",
+        "水",
+        "淀粉",
+        "调浆用冷水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:%E7%BA%A2%E7%83%A7%E8%8C%84%E5%AD%90-%E4%BA%91%E5%8D%97%E6%98%86%E6%98%8E.jpg"
+    },
+    {
+      "id": "di-san-xian",
+      "name": "地三鲜",
+      "image": "di-san-xian.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "土豆，去皮切5毫米片",
+        "茄子，切块",
+        "青椒，切块",
+        "蒜瓣，切片",
+        "中性油",
+        "生抽",
+        "糖",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Di_san_xian_(home-made).jpg"
+    },
+    {
+      "id": "mushroom-bok-choy",
+      "name": "香菇青菜",
+      "image": "mushroom-bok-choy-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "青菜",
+        "鲜香菇，切片",
+        "蒜瓣，切片",
+        "中性油",
+        "生抽",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/mushroom-bok-choy-ai.jpg"
+    },
+    {
+      "id": "hot-sour-soup",
+      "name": "酸辣汤",
+      "image": "hot-sour-soup.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "蔬菜高汤",
+        "嫩豆腐，切条",
+        "鲜菌菇，切片",
+        "大鸡蛋，打散",
+        "生抽",
+        "米醋",
+        "白胡椒",
+        "淀粉",
+        "调浆用冷水",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Hot-and-Sour-Soup-Bowl.jpg"
+    },
+    {
+      "id": "tomato-tofu-soup",
+      "name": "番茄豆腐汤",
+      "image": "tomato-tofu-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "熟番茄，切块",
+        "嫩豆腐，切块",
+        "水或蔬菜高汤",
+        "中性油",
+        "盐，按口味调整",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/tomato-tofu-soup-ai.jpg"
+    },
+    {
+      "id": "seaweed-egg-soup",
+      "name": "紫菜蛋花汤",
+      "image": "seaweed-egg-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "干紫菜",
+        "大鸡蛋",
+        "水或蔬菜高汤",
+        "盐",
+        "芝麻油（可选）",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/seaweed-egg-soup-ai.jpg"
+    },
+    {
+      "id": "egg-drop-soup",
+      "name": "蛋花汤",
+      "image": "egg-drop-soup.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "蔬菜高汤",
+        "大鸡蛋，打散",
+        "淀粉",
+        "调浆用冷水",
+        "白胡椒（可选）",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Egg_drop_soup.jpg"
+    },
+    {
+      "id": "corn-pork-rib-soup",
+      "name": "玉米排骨汤",
+      "image": "corn-pork-rib-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪排骨，切小段",
+        "带芯甜玉米，切段",
+        "胡萝卜，切块",
+        "姜，切片",
+        "煮汤用水",
+        "盐，按口味调整"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/corn-pork-rib-soup-ai.jpg"
+    },
+    {
+      "id": "winter-melon-soup",
+      "name": "冬瓜菌菇汤",
+      "image": "winter-melon-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "冬瓜，去皮去籽",
+        "鲜菌菇，切片",
+        "蔬菜高汤或水",
+        "姜，切片",
+        "中性油",
+        "盐"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/winter-melon-soup-ai.jpg"
+    },
+    {
+      "id": "red-braised-pork",
+      "name": "红烧肉",
+      "image": "red-braised-pork.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "五花肉，切3厘米块",
+        "姜，切片",
+        "小葱",
+        "生抽",
+        "老抽",
+        "糖",
+        "热水，近似用量",
+        "八角（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_braised_pork_(20141106191221).JPG"
+    },
+    {
+      "id": "sweet-sour-pork",
+      "name": "糖醋里脊",
+      "image": "sweet-sour-pork.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "猪里脊，切1厘米粗条",
+        "裹肉用淀粉",
+        "中性油",
+        "番茄酱",
+        "米醋",
+        "糖",
+        "水",
+        "盐"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Sweet_sour_pork.jpg"
+    },
+    {
+      "id": "sweet-sour-ribs",
+      "name": "糖醋排骨",
+      "image": "sweet-sour-ribs-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪排骨，小段",
+        "姜，切片",
+        "中性油",
+        "生抽",
+        "米醋，分次使用",
+        "糖",
+        "热水，近似用量"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/sweet-sour-ribs-ai.jpg"
+    },
+    {
+      "id": "twice-cooked-pork",
+      "name": "回锅肉",
+      "image": "twice-cooked-pork.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "整块五花肉",
+        "蒜苗或韭葱，切段",
+        "姜，切片",
+        "豆瓣酱",
+        "生抽（可选）",
+        "糖",
+        "中性油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Twice-cooked_Pork_%E5%9B%9E%E9%94%85%E8%82%89_(1648213963).jpg"
+    },
+    {
+      "id": "pork-pepper-stir-fry",
+      "name": "青椒肉丝",
+      "image": "pork-pepper-stir-fry.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "猪里脊，切细丝",
+        "青椒，切丝",
+        "蒜瓣，切片",
+        "生抽，分次使用",
+        "淀粉",
+        "水",
+        "中性油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Q%C4%ABngji%C4%81o_r%C3%B2us%C4%AB_(2540742543).jpg"
+    },
+    {
+      "id": "fish-fragrant-pork",
+      "name": "鱼香肉丝",
+      "image": "fish-fragrant-pork.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "猪里脊，切细丝",
+        "胡萝卜，切细丝",
+        "鲜菌菇，切片",
+        "蒜瓣，切末",
+        "姜，切末",
+        "辣豆瓣酱",
+        "生抽",
+        "米醋",
+        "糖",
+        "淀粉，分次使用",
+        "水，分次使用",
+        "中性油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Fish-flavoured_shredded_pork_at_Meizhou_Dongpo_Restaurant_Shangdi_(20190808185406).jpg"
+    },
+    {
+      "id": "lion-head-meatballs",
+      "name": "清炖狮子头",
+      "image": "lion-head-meatballs-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪肉末",
+        "荸荠，切细",
+        "大白菜",
+        "姜，切末",
+        "生抽",
+        "淀粉",
+        "馅料用冷水",
+        "水或无盐高汤"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/lion-head-meatballs-ai.jpg"
+    },
+    {
+      "id": "cola-chicken-wings",
+      "name": "可乐鸡翅",
+      "image": "cola-chicken-wings.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "鸡翅中",
+        "普通含糖可乐",
+        "生抽",
+        "姜，切片",
+        "中性油",
+        "小葱"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Chicken_Wings_in_Coca_Cola_Sauce.jpg"
+    },
+    {
+      "id": "three-cup-chicken",
+      "name": "三杯鸡",
+      "image": "three-cup-chicken.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "去骨鸡腿，切3厘米块",
+        "姜，切片",
+        "蒜瓣",
+        "芝麻油",
+        "中性油",
+        "生抽",
+        "绍兴酒或水",
+        "水",
+        "糖",
+        "鲜罗勒叶"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Three_Cup_Chicken_in_Clay_Pot.jpg"
+    },
+    {
+      "id": "ginger-scallion-chicken",
+      "name": "姜葱鸡",
+      "image": "ginger-scallion-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿",
+        "姜，分次使用",
+        "小葱，分次使用",
+        "水，以没过鸡肉为准",
+        "中性油",
+        "盐",
+        "生抽（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/ginger-scallion-chicken-ai.jpg"
+    },
+    {
+      "id": "cumin-chicken",
+      "name": "孜然鸡丁",
+      "image": "cumin-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿，切2厘米丁",
+        "洋葱，切块",
+        "甜椒，切块",
+        "生抽",
+        "淀粉",
+        "中性油",
+        "孜然粉",
+        "辣椒碎（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/cumin-chicken-ai.jpg"
+    },
+    {
+      "id": "beef-broccoli",
+      "name": "西兰花炒牛肉",
+      "image": "beef-broccoli.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "整切牛排肉，切薄片",
+        "西兰花花球",
+        "蒜瓣，切末",
+        "生抽",
+        "淀粉，分次使用",
+        "水，分次使用",
+        "中性油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Beef_with_broccoli.JPG"
+    },
+    {
+      "id": "black-pepper-beef",
+      "name": "黑椒牛柳",
+      "image": "black-pepper-beef.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "整切牛排肉，切5毫米条",
+        "洋葱，切片",
+        "甜椒，切片",
+        "生抽，分次使用",
+        "现磨黑胡椒",
+        "淀粉，分次使用",
+        "水，分次使用",
+        "中性油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Black-Pepper_Beef_(Sapi_Lada_Hitam),_One_Two_Restaurant,_Yogyakarta.jpg"
+    },
+    {
+      "id": "tomato-beef-stew",
+      "name": "番茄炖牛腩",
+      "image": "tomato-beef-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "牛肩或牛腩，切3厘米块",
+        "熟番茄，切块",
+        "洋葱，切块",
+        "土豆，去皮切块",
+        "姜，切片",
+        "中性油",
+        "生抽",
+        "热水，近似用量",
+        "盐，按口味调整"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/tomato-beef-stew-ai.jpg"
+    },
+    {
+      "id": "ginger-scallion-fish",
+      "name": "姜葱蒸鱼",
+      "image": "ginger-scallion-fish-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨白鱼柳",
+        "姜，切细丝",
+        "小葱，切细丝",
+        "生抽",
+        "调汁用水",
+        "中性油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/ginger-scallion-fish-ai.jpg"
+    },
+    {
+      "id": "garlic-shrimp",
+      "name": "蒜蓉虾",
+      "image": "garlic-shrimp-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "生虾仁，去肠线",
+        "蒜瓣，切末",
+        "中性油",
+        "生抽",
+        "水",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/garlic-shrimp-ai.jpg"
+    },
+    {
+      "id": "salt-pepper-shrimp",
+      "name": "椒盐虾",
+      "image": "salt-pepper-shrimp.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "生虾仁，去肠线",
+        "淀粉",
+        "中性油",
+        "蒜瓣，切末",
+        "盐",
+        "白胡椒",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Pepper_salt_prawns.jpeg"
+    },
+    {
+      "id": "shrimp-eggs",
+      "name": "虾仁炒蛋",
+      "image": "shrimp-eggs.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "生虾仁，去肠线",
+        "大鸡蛋",
+        "中性油，分次使用",
+        "盐",
+        "蛋液用水",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Baby_shrimp_with_scrambled_egg.jpg"
+    },
+    {
+      "id": "braised-tofu",
+      "name": "红烧豆腐",
+      "image": "braised-tofu.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "硬豆腐，切2厘米块",
+        "姜，切片",
+        "蒜瓣，切片",
+        "中性油",
+        "生抽",
+        "老抽（可选）",
+        "糖",
+        "水",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_Pop_Deli_shop_%E7%A8%BB%E9%A6%99%E8%B6%85%E7%B4%9A%E6%BC%81%E6%B8%AF_Tao_Heung_Chinese_Restaurant_food_%E7%B4%85%E7%87%92%E8%B1%86%E8%85%90_braised_tofu_July_2024_R12S_01.jpg"
+    },
+    {
+      "id": "salt-pepper-tofu",
+      "name": "椒盐豆腐",
+      "image": "salt-pepper-tofu-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "硬豆腐",
+        "淀粉",
+        "中性油",
+        "盐",
+        "白胡椒",
+        "蒜瓣，切末",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/salt-pepper-tofu-ai.jpg"
+    },
+    {
+      "id": "steamed-eggs",
+      "name": "水蒸蛋",
+      "image": "steamed-eggs.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "大鸡蛋，去壳约150克",
+        "温水，不是热水",
+        "盐",
+        "生抽（可选）",
+        "芝麻油（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%92%B8%E6%B0%B4%E8%9B%8B_-_%E5%9F%BA%E9%9A%86%E8%8C%B6%E9%A4%90%E5%BB%B3.jpg"
+    },
+    {
+      "id": "tea-eggs",
+      "name": "茶叶蛋",
+      "image": "tea-eggs.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "大鸡蛋",
+        "茶汁用水",
+        "原味红茶",
+        "生抽",
+        "老抽（可选）",
+        "八角（可选）",
+        "盐"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Tea_eggs_1.jpg"
+    },
+    {
+      "id": "sesame-noodles",
+      "name": "麻酱拌面",
+      "image": "sesame-noodles.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "干小麦面条",
+        "中式芝麻酱",
+        "调酱用温水",
+        "生抽",
+        "米醋",
+        "糖",
+        "黄瓜，切细丝"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Sesamenoodle.jpg"
+    },
+    {
+      "id": "tomato-egg-noodles",
+      "name": "番茄鸡蛋面",
+      "image": "tomato-egg-noodles.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "干小麦面条",
+        "熟番茄，切块",
+        "大鸡蛋",
+        "水或蔬菜高汤",
+        "中性油",
+        "盐，按口味调整",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomato_and_egg_noodles.jpg"
+    },
+    {
+      "id": "zhajiang-noodles",
+      "name": "家常炸酱面",
+      "image": "zhajiang-noodles.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "干小麦面条",
+        "猪肉末",
+        "甜面酱，检查大豆标签",
+        "黄豆酱",
+        "煮酱用水",
+        "中性油",
+        "姜，切末",
+        "黄瓜，切细丝",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Zhajiangmian_in_Handan.jpg"
+    },
+    {
+      "id": "scallion-pancakes",
+      "name": "葱油饼",
+      "image": "scallion-pancakes.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "中筋小麦面粉，另备少量防粘粉",
+        "温水，近似用量",
+        "小葱，切细并擦干",
+        "中性油，分次使用",
+        "盐"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Plate_of_scallion_pancakes.jpg"
+    },
+    {
+      "id": "vegetable-congee",
+      "name": "香菇蔬菜粥",
+      "image": "vegetable-congee-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "生白米",
+        "水，另备少量调整用",
+        "鲜香菇，切丁",
+        "小白菜，切碎",
+        "姜，切丝",
+        "盐，按口味调整",
+        "芝麻油（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/vegetable-congee-ai.jpg"
+    },
+    {
+      "id": "eight-treasure-rice",
+      "name": "八宝饭",
+      "image": "eight-treasure-rice.jpg",
+      "type": "授权菜品参考照片",
+      "ingredients": [
+        "生糯米",
+        "甜红豆沙",
+        "葡萄干",
+        "去核红枣，切小块",
+        "核桃碎（可选）",
+        "糖",
+        "中性油，分次使用"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "https://commons.wikimedia.org/wiki/File:Gary_Stevens_(Gary_Soup)_Eight_Treasure_Rice.jpg"
+    },
+    {
+      "id": "orange-chicken",
+      "name": "陈皮橙汁鸡",
+      "image": "orange-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切2厘米块",
+        "裹粉用玉米淀粉",
+        "盐",
+        "浅煎用中性油，不会全部吃下",
+        "橙汁",
+        "白糖",
+        "生抽",
+        "米醋",
+        "陈皮，切细",
+        "酱汁用淀粉",
+        "调淀粉浆用冷水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/orange-chicken-ai.jpg"
+    },
+    {
+      "id": "sesame-chicken",
+      "name": "芝麻鸡",
+      "image": "sesame-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切2厘米块",
+        "裹粉用玉米淀粉",
+        "盐",
+        "浅煎用中性油，不会全部吃下",
+        "生抽",
+        "蜂蜜",
+        "米醋",
+        "水",
+        "酱汁用淀粉",
+        "调浆用冷水",
+        "熟芝麻"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/sesame-chicken-ai.jpg"
+    },
+    {
+      "id": "sweet-sour-chicken",
+      "name": "糖醋鸡",
+      "image": "sweet-sour-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切2厘米块",
+        "裹粉用玉米淀粉",
+        "盐",
+        "浅煎用中性油，不会全部吃下",
+        "彩椒，切2厘米块",
+        "菠萝块，沥干",
+        "番茄酱",
+        "米醋",
+        "糖",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/sweet-sour-chicken-ai.jpg"
+    },
+    {
+      "id": "crispy-honey-chicken",
+      "name": "蜜汁脆皮鸡",
+      "image": "crispy-honey-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切2厘米块",
+        "裹粉用玉米淀粉",
+        "盐",
+        "浅煎用中性油，不会全部吃下",
+        "蜂蜜",
+        "米醋",
+        "生抽",
+        "水",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/crispy-honey-chicken-ai.jpg"
+    },
+    {
+      "id": "mongolian-beef",
+      "name": "葱爆甜酱牛肉",
+      "image": "mongolian-beef-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "牛外脊，逆纹切片",
+        "大葱，切4厘米段",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水",
+        "红糖"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/mongolian-beef-ai.jpg"
+    },
+    {
+      "id": "beijing-beef",
+      "name": "甜辣酥牛肉",
+      "image": "beijing-beef-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "牛外脊，切细条",
+        "红彩椒，切条",
+        "洋葱，切条",
+        "牛肉裹粉用淀粉",
+        "浅煎用中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水",
+        "甜辣酱",
+        "米醋"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/beijing-beef-ai.jpg"
+    },
+    {
+      "id": "chicken-chow-mein",
+      "name": "鸡肉炒面",
+      "image": "chicken-chow-mein-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "干小麦面条",
+        "去骨鸡肉，薄片",
+        "卷心菜，切丝",
+        "胡萝卜，切丝",
+        "小葱，切碎",
+        "中性油",
+        "蒜瓣，切末",
+        "生抽",
+        "芝麻油",
+        "锅中用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/chicken-chow-mein-ai.jpg"
+    },
+    {
+      "id": "vegetable-spring-rolls",
+      "name": "蔬菜春卷",
+      "image": "vegetable-spring-rolls-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "薄春卷皮，约20厘米方形",
+        "卷心菜，切细丝",
+        "胡萝卜，切细丝",
+        "鲜菌菇，薄片",
+        "生抽",
+        "炒馅用油",
+        "浅煎用油，不会全部吃下",
+        "封口用面粉",
+        "封口浆用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/vegetable-spring-rolls-ai.jpg"
+    },
+    {
+      "id": "chicken-lettuce-wraps",
+      "name": "鸡肉生菜包",
+      "image": "chicken-lettuce-wraps-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "鸡肉末",
+        "大片生菜叶",
+        "罐装马蹄，沥干切丁",
+        "鲜香菇，切丁",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "海鲜酱",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/chicken-lettuce-wraps-ai.jpg"
+    },
+    {
+      "id": "honey-walnut-shrimp",
+      "name": "蜜汁核桃虾",
+      "image": "honey-walnut-shrimp-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去壳生虾，去虾线",
+        "裹粉用玉米淀粉",
+        "盐",
+        "浅煎用中性油，不会全部吃下",
+        "市售巴氏杀菌蛋黄酱",
+        "蜂蜜",
+        "柠檬汁",
+        "可即食核桃仁"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/honey-walnut-shrimp-ai.jpg"
+    },
+    {
+      "id": "lemon-chicken",
+      "name": "柠檬鸡",
+      "image": "lemon-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切2厘米块",
+        "裹粉用玉米淀粉",
+        "盐",
+        "浅煎用中性油，不会全部吃下",
+        "柠檬汁",
+        "白糖",
+        "水",
+        "酱汁用淀粉",
+        "调浆用冷水",
+        "洗净柠檬皮屑，不带白瓤"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/lemon-chicken-ai.jpg"
+    },
+    {
+      "id": "cashew-chicken",
+      "name": "腰果鸡丁",
+      "image": "cashew-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切1.5厘米丁",
+        "彩椒，切丁",
+        "熟无盐腰果",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/cashew-chicken-ai.jpg"
+    },
+    {
+      "id": "black-pepper-chicken",
+      "name": "黑椒鸡丁",
+      "image": "black-pepper-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切1.5厘米丁",
+        "洋葱，切丁",
+        "青椒，切丁",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水",
+        "黑胡椒粉"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/black-pepper-chicken-ai.jpg"
+    },
+    {
+      "id": "chicken-mushroom-stir-fry",
+      "name": "香菇炒鸡",
+      "image": "chicken-mushroom-stir-fry-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨鸡腿肉，切细条",
+        "鲜香菇，切片",
+        "小葱，切段",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/chicken-mushroom-stir-fry-ai.jpg"
+    },
+    {
+      "id": "potato-chicken-stew",
+      "name": "土豆炖鸡",
+      "image": "potato-chicken-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "带骨鸡腿，剁约5厘米块",
+        "土豆，去皮切3厘米块",
+        "中性油",
+        "姜，切片",
+        "生抽",
+        "老抽（可选）",
+        "焖煮用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/potato-chicken-stew-ai.jpg"
+    },
+    {
+      "id": "chestnut-chicken-stew",
+      "name": "板栗烧鸡",
+      "image": "chestnut-chicken-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "带骨鸡腿，剁约5厘米块",
+        "去壳可即食熟板栗",
+        "中性油",
+        "姜，切片",
+        "生抽",
+        "老抽（可选）",
+        "焖煮用水",
+        "白糖"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/chestnut-chicken-stew-ai.jpg"
+    },
+    {
+      "id": "soy-sauce-chicken",
+      "name": "酱油鸡",
+      "image": "soy-sauce-chicken-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "带骨鸡腿",
+        "生抽",
+        "老抽",
+        "姜片",
+        "八角",
+        "糖",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/soy-sauce-chicken-ai.jpg"
+    },
+    {
+      "id": "red-braised-ribs",
+      "name": "红烧排骨",
+      "image": "red-braised-ribs-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪排骨，切4厘米段",
+        "中性油",
+        "姜，切片",
+        "生抽",
+        "老抽（可选）",
+        "焖煮用水",
+        "糖",
+        "八角"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/red-braised-ribs-ai.jpg"
+    },
+    {
+      "id": "steamed-pork-patty",
+      "name": "蒸肉饼",
+      "image": "steamed-pork-patty-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪肉末",
+        "调肉用水",
+        "生抽",
+        "淀粉",
+        "姜末",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/steamed-pork-patty-ai.jpg"
+    },
+    {
+      "id": "wood-ear-pork",
+      "name": "木耳炒肉",
+      "image": "wood-ear-pork-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪里脊，薄片",
+        "鲜木耳",
+        "青椒，切片",
+        "中性油",
+        "蒜瓣，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/wood-ear-pork-ai.jpg"
+    },
+    {
+      "id": "pork-eggplant-stew",
+      "name": "肉末茄子",
+      "image": "pork-eggplant-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪肉末",
+        "茄子，切2厘米条",
+        "中性油",
+        "蒜瓣，切末",
+        "生抽",
+        "水",
+        "米醋",
+        "小葱，切碎"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/pork-eggplant-stew-ai.jpg"
+    },
+    {
+      "id": "beef-celery-stir-fry",
+      "name": "芹菜牛肉",
+      "image": "beef-celery-stir-fry-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "牛外脊，逆纹薄切",
+        "芹菜，斜切薄片",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/beef-celery-stir-fry-ai.jpg"
+    },
+    {
+      "id": "beef-onion-stir-fry",
+      "name": "洋葱炒牛肉",
+      "image": "beef-onion-stir-fry-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "牛外脊，逆纹薄切",
+        "洋葱，切1厘米条",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/beef-onion-stir-fry-ai.jpg"
+    },
+    {
+      "id": "beef-potato-stew",
+      "name": "土豆炖牛肉",
+      "image": "beef-potato-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "牛肩肉，切3厘米块",
+        "土豆，去皮切块",
+        "洋葱，切块",
+        "胡萝卜，切块",
+        "中性油",
+        "姜，切片",
+        "生抽",
+        "老抽（可选）",
+        "焖煮用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/beef-potato-stew-ai.jpg"
+    },
+    {
+      "id": "cumin-lamb",
+      "name": "孜然羊肉",
+      "image": "cumin-lamb-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨羊腿肉，逆纹薄片",
+        "洋葱，切条",
+        "中性油",
+        "蒜瓣，切末",
+        "鲜姜，切末",
+        "生抽",
+        "玉米淀粉",
+        "调汁用水",
+        "孜然粉",
+        "辣椒碎（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/cumin-lamb-ai.jpg"
+    },
+    {
+      "id": "black-bean-fish",
+      "name": "豆豉蒸鱼",
+      "image": "black-bean-fish-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨白鱼片",
+        "豆豉，快速冲洗",
+        "姜，切细丝",
+        "蒜瓣，切末",
+        "生抽",
+        "中性油",
+        "小葱，切段"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/black-bean-fish-ai.jpg"
+    },
+    {
+      "id": "tomato-fish-soup",
+      "name": "番茄鱼片汤",
+      "image": "tomato-fish-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "去骨白鱼片",
+        "番茄，切块",
+        "姜，切片",
+        "中性油",
+        "水",
+        "盐",
+        "小葱，切段"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/tomato-fish-soup-ai.jpg"
+    },
+    {
+      "id": "ginger-scallion-shrimp",
+      "name": "姜葱炒虾",
+      "image": "ginger-scallion-shrimp-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "生虾，去壳去虾线",
+        "姜，切细丝",
+        "小葱，切4厘米段",
+        "中性油",
+        "生抽",
+        "水",
+        "糖"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/ginger-scallion-shrimp-ai.jpg"
+    },
+    {
+      "id": "shrimp-broccoli",
+      "name": "西兰花炒虾仁",
+      "image": "shrimp-broccoli-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "西兰花，切小朵",
+        "生虾仁，去虾线",
+        "蒜瓣，切末",
+        "中性油",
+        "盐",
+        "淀粉",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/shrimp-broccoli-ai.jpg"
+    },
+    {
+      "id": "shrimp-vermicelli",
+      "name": "蒜蓉粉丝蒸虾",
+      "image": "shrimp-vermicelli-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "生虾仁，去虾线",
+        "干绿豆粉丝",
+        "蒜瓣，切末",
+        "生抽",
+        "中性油",
+        "料汁用水",
+        "小葱，切末"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/shrimp-vermicelli-ai.jpg"
+    },
+    {
+      "id": "clam-ginger-soup",
+      "name": "姜丝蛤蜊汤",
+      "image": "clam-ginger-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "鲜活蛤蜊，商家已吐沙",
+        "姜，切细丝",
+        "水",
+        "小葱，切段",
+        "盐，按需少量"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/clam-ginger-soup-ai.jpg"
+    },
+    {
+      "id": "cucumber-eggs",
+      "name": "黄瓜炒蛋",
+      "image": "cucumber-eggs-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "黄瓜",
+        "鸡蛋",
+        "中性油，分次使用",
+        "盐，分次使用",
+        "蒜瓣，切片"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/cucumber-eggs-ai.jpg"
+    },
+    {
+      "id": "chive-eggs",
+      "name": "韭菜炒蛋",
+      "image": "chive-eggs-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "韭菜",
+        "鸡蛋",
+        "中性油",
+        "盐",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/chive-eggs-ai.jpg"
+    },
+    {
+      "id": "bitter-melon-eggs",
+      "name": "苦瓜炒蛋",
+      "image": "bitter-melon-eggs-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "苦瓜",
+        "鸡蛋",
+        "中性油，分次使用",
+        "盐",
+        "蒜瓣，切片"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/bitter-melon-eggs-ai.jpg"
+    },
+    {
+      "id": "wood-ear-salad",
+      "name": "凉拌木耳",
+      "image": "wood-ear-salad-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "干木耳",
+        "蒜瓣，切末",
+        "生抽",
+        "米醋",
+        "芝麻油",
+        "糖",
+        "小红辣椒（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/wood-ear-salad-ai.jpg"
+    },
+    {
+      "id": "shredded-carrot-salad",
+      "name": "凉拌胡萝卜丝",
+      "image": "shredded-carrot-salad-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "胡萝卜，去皮",
+        "蒜瓣，切末",
+        "米醋",
+        "芝麻油",
+        "盐",
+        "糖"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/shredded-carrot-salad-ai.jpg"
+    },
+    {
+      "id": "stir-fried-celery",
+      "name": "香干炒芹菜",
+      "image": "stir-fried-celery-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "原味香干",
+        "芹菜梗",
+        "蒜瓣，切片",
+        "中性油",
+        "生抽",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/stir-fried-celery-ai.jpg"
+    },
+    {
+      "id": "lotus-root-stir-fry",
+      "name": "清炒莲藕",
+      "image": "lotus-root-stir-fry-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "鲜莲藕",
+        "蒜瓣，切片",
+        "中性油",
+        "米醋",
+        "盐",
+        "水",
+        "小葱，切末"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/lotus-root-stir-fry-ai.jpg"
+    },
+    {
+      "id": "stir-fried-zucchini",
+      "name": "清炒西葫芦",
+      "image": "stir-fried-zucchini-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "西葫芦",
+        "蒜瓣，切片",
+        "中性油",
+        "生抽",
+        "米醋",
+        "水，按需"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/stir-fried-zucchini-ai.jpg"
+    },
+    {
+      "id": "cauliflower-tomato",
+      "name": "番茄炒菜花",
+      "image": "cauliflower-tomato-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "菜花",
+        "番茄，切块",
+        "蒜瓣，切片",
+        "中性油",
+        "盐",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/cauliflower-tomato-ai.jpg"
+    },
+    {
+      "id": "pea-shoots",
+      "name": "蒜蓉豌豆苗",
+      "image": "pea-shoots-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "叶用豌豆苗",
+        "蒜瓣，切片",
+        "中性油",
+        "盐",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/pea-shoots-ai.jpg"
+    },
+    {
+      "id": "garlic-enoki",
+      "name": "蒜蓉蒸金针菇",
+      "image": "garlic-enoki-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "金针菇",
+        "蒜瓣，切末",
+        "生抽",
+        "中性油",
+        "水",
+        "小葱，切末"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/garlic-enoki-ai.jpg"
+    },
+    {
+      "id": "tofu-mushroom-stew",
+      "name": "菌菇豆腐煲",
+      "image": "tofu-mushroom-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "老豆腐",
+        "鲜香菇与平菇",
+        "姜，切片",
+        "中性油",
+        "生抽",
+        "水",
+        "淀粉",
+        "淀粉用水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/tofu-mushroom-stew-ai.jpg"
+    },
+    {
+      "id": "braised-daikon",
+      "name": "红烧白萝卜",
+      "image": "braised-daikon-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "白萝卜",
+        "姜，切片",
+        "中性油",
+        "生抽",
+        "老抽",
+        "糖",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/braised-daikon-ai.jpg"
+    },
+    {
+      "id": "tofu-cabbage-stew",
+      "name": "白菜炖豆腐",
+      "image": "tofu-cabbage-stew-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "大白菜",
+        "老豆腐",
+        "姜，切片",
+        "中性油",
+        "水或无盐蔬菜高汤",
+        "盐",
+        "芝麻油（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/tofu-cabbage-stew-ai.jpg"
+    },
+    {
+      "id": "shrimp-fried-rice",
+      "name": "虾仁炒饭",
+      "image": "shrimp-fried-rice-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "熟米饭，新鲜或安全冷藏",
+        "生虾仁，去虾线",
+        "鸡蛋",
+        "胡萝卜，小粒",
+        "冷冻豌豆",
+        "中性油，分次使用",
+        "生抽",
+        "小葱，切末"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/shrimp-fried-rice-ai.jpg"
+    },
+    {
+      "id": "vegetable-chow-mein",
+      "name": "蔬菜炒面",
+      "image": "vegetable-chow-mein-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "干小麦面",
+        "圆包菜，细丝",
+        "胡萝卜，细丝",
+        "鲜菌菇，切片",
+        "蒜瓣，切末",
+        "中性油",
+        "生抽",
+        "芝麻油",
+        "水"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/vegetable-chow-mein-ai.jpg"
+    },
+    {
+      "id": "wonton-soup",
+      "name": "鲜肉馄饨汤",
+      "image": "wonton-soup-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪肉末",
+        "薄馄饨皮，约24张",
+        "姜，切末",
+        "馅料用生抽",
+        "馅料用冷水",
+        "汤用水或无盐高汤",
+        "小葱，切末",
+        "汤用盐",
+        "芝麻油"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/wonton-soup-ai.jpg"
+    },
+    {
+      "id": "pork-potstickers",
+      "name": "猪肉锅贴",
+      "image": "pork-potstickers-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "猪肉末",
+        "韭菜，切细",
+        "圆小麦饺子皮，约9厘米",
+        "姜，切末",
+        "生抽",
+        "芝麻油",
+        "馅料用冷水",
+        "中性油",
+        "蒸煎用水，近似用量"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/pork-potstickers-ai.jpg"
+    },
+    {
+      "id": "pumpkin-congee",
+      "name": "南瓜粥",
+      "image": "pumpkin-congee-ai.jpg",
+      "type": "AI生成成品示意图",
+      "ingredients": [
+        "生短粒米",
+        "南瓜，去皮去籽",
+        "水，按需另备热水",
+        "盐（可选）"
+      ],
+      "checked": "已逐一查看并核对主料、成品形态和烹饪方式",
+      "source": "/assets/pumpkin-congee-ai.jpg"
+    }
+  ]
+}

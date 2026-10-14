@@ -5,3 +5,4 @@ dist/
 *.log
 qa/
 .DS_Store
+public/assets/*-ai.png
