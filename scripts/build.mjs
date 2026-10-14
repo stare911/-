@@ -85,7 +85,7 @@ function info(c,kind){
 
 await mkdir(out,{recursive:true});
 // Remove only these generated files, so disabling settings cannot leave stale output.
-for(const file of ['ads.txt','sitemap.xml']) { try { await unlink(resolve(out,file)); } catch(e) { if(e.code!=='ENOENT') throw e; } }
+for(const file of ['ads.txt','sitemap.xml','sitemap.txt']) { try { await unlink(resolve(out,file)); } catch(e) { if(e.code!=='ENOENT') throw e; } }
 await cp(resolve('public'),out,{recursive:true});
 const pages=[];
 async function save(path,html){await mkdir(dirname(resolve(out,path)),{recursive:true});await writeFile(resolve(out,path),html);pages.push(path);}
@@ -101,6 +101,7 @@ const nf=context('en','404.html');await save('404.html',layout(nf,'Page not foun
 const nfc=context('zh','zh/404.html');await save('zh/404.html',layout(nfc,'页面未找到','寻找下一道家常菜。',`<section class="prose-page section-shell"><span class="eyebrow">404</span><h1>这张餐桌还在准备中。</h1><p>没有找到这个页面，先看看其他食谱吧。</p><a class="button primary" href="index.html">探索食谱 ${icon('arrow')}</a></section>`));
 await writeFile(resolve(out,'robots.txt'),`User-agent: *\nAllow: /\n${origin?'Sitemap: '+origin+'/sitemap.xml\n':''}`);
 if(origin) await writeFile(resolve(out,'sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+pages.filter(p=>!/saved\.html|404\.html/.test(p)).map(p=>'<url><loc>'+esc(origin+'/'+publicPath(p))+'</loc></url>').join('')+'</urlset>');
+if(origin) await writeFile(resolve(out,'sitemap.txt'),pages.filter(p=>!/saved\.html|404\.html/.test(p)).map(p=>origin+'/'+publicPath(p)).join('\n')+'\n');
 if(/^ca-pub-\d{16}$/.test(config.adsense.publisherId)) await writeFile(resolve(out,'ads.txt'),`google.com, ${config.adsense.publisherId.replace(/^ca-/,'')}, DIRECT, f08c47fec0942fa0\n`);
 await writeFile(resolve(out,'_headers'),'/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Frame-Options: SAMEORIGIN\n');
 console.log(`Built ${pages.length} pages in dist. Ads ${ads?'enabled':'disabled'}. ${origin?'Sitemap ready.':'Set siteUrl after deployment to generate canonical URLs and sitemap.'}`);

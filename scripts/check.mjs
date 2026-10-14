@@ -33,4 +33,6 @@ const credits=[...JSON.parse(await readFile('src/credits.json','utf8')),...JSON.
 assert.equal(htmls.length,recipes.length*2+16);
 const sitemap=await readFile(resolve(root,'sitemap.xml'),'utf8');
 assert.equal([...sitemap.matchAll(/<loc>/g)].length,recipes.length*2+12);
+const textSitemap=(await readFile(resolve(root,'sitemap.txt'),'utf8')).trim().split('\n');
+assert.deepEqual(textSitemap,[...sitemap.matchAll(/<loc>(.*?)<\/loc>/g)].map(m=>m[1]),'Backup text sitemap must contain exactly the same canonical URLs as XML.');
 console.log(`PASS: ${recipes.length} unique dishes, ${htmls.length} bilingual pages, ${links} local links/assets, full ingredients and steps, one hundred image credits, sitemap, embedded JSON, and disabled ad scripts.`);
