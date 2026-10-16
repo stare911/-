@@ -5,7 +5,7 @@ export default {
   contactEmail: '',
   googleSiteVerification: 'Ql-nZNnL7pwfhlJ1qfStcOB23bISySsbeOmZH8PkeM8',
   adsense: {
-    publisherId: '', // Copy the real ca-pub-... identifier from your AdSense account.
+    publisherId: 'ca-pub-2617337538099751', // Public AdSense publisher identifier.
     enabled: false, // Enable only after reviewing your content and privacy settings.
     consentReady: false // Set true after configuring the required consent management.
   }
