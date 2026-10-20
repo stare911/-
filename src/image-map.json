@@ -546,5 +546,11 @@
     "illustration": true,
     "aiGenerated": true,
     "creditSource": "China Table / AI-generated dish reference"
+  },
+  "egg-fried-rice": {
+    "file": "egg-fried-rice-ai.png",
+    "illustration": true,
+    "aiGenerated": true,
+    "creditSource": "China Table / AI-generated dish reference"
   }
 }

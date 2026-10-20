@@ -18,13 +18,13 @@
     "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
   },
   {
-    "file": "fried-rice.jpg",
-    "title": "Egg fried rice.jpg",
-    "author": "ProjectManhattan",
-    "source": "https://commons.wikimedia.org/wiki/File:Egg_fried_rice.jpg",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "changes": "Resized by Wikimedia; displayed with a CSS crop. Photo illustrates the dish, not a test of this recipe."
+    "file": "egg-fried-rice-ai.png",
+    "title": "Egg fried rice with egg, green peas and scallions — AI-generated reference",
+    "author": "China Table / AI-generated",
+    "source": "/assets/egg-fried-rice-ai.png",
+    "license": "Original AI-generated illustration",
+    "licenseUrl": "https://openai.com/policies/terms-of-use/",
+    "changes": "Created with imagegen on 2026-10-20 to match the recipe ingredients; not a kitchen-test photograph."
   },
   {
     "file": "boiled-dumplings.jpg",
